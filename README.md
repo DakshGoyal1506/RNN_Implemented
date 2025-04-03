@@ -20,8 +20,8 @@ A simple recurrent neural network (RNN) implemented in PyTorch to classify names
 1. **Clone the Repository**
 
    ```sh
-   git clone <repo-url>
-   cd <repo-directory>
+   git clone https://github.com/DakshGoyal1506/RNN_Implemented.git
+   cd RNN_Implemented
    ```
 
 2. **Install Dependencies**
