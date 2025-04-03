@@ -58,4 +58,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-This implementation is inspired by tutorials from [PyTorch](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html) and [Medium](https://medium.com/@wangdk93/lstm-from-scratch-c8b4baf06a8b).
+This implementation is inspired by tutorials from [PyTorch](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html) and [Medium](https://medium.com/@VersuS_/coding-a-recurrent-neural-network-rnn-from-scratch-using-pytorch-a6c9fc8ed4a7).
